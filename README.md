@@ -160,6 +160,6 @@ The recognizable commands by the interpreter are the following:
 | **update** | Updates an instance based on the class name and `id` by adding or updating attribute (saves the changes into a JSON file).  |
 | **Usage** | **update <class name\> <id\> <attribute name\> "<attribute value\>"** ---or--- **<class name\>.update(<id\>, <attribute name\>, <attribute value\>)** --or-- **<class name\>.update(<id\>, <dictionary representation\>)**|
 | **-----** | **-----** |
-| **count** | Retrieve the number of instances of a class.  |
+| **count** | Retrieve the number of instances of a class  |
 | **Usage** | **<class name\>.count()** |
 
